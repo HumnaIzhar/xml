@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!Doctype person[
+<!Element person (name,email,passwaord,role!)>
+<!Element name (#PCDATA)!>
+<!Element email (#PCDATA)!>
+<!Element password (#PCDATA)!>
+<!Element role (#PCDATA)!>
+]>
+
+<person>
+   <name>Ali</name>
+   <emai>ali3@gmail.com</emai>
+   <pasword>ali123</pasword>
+   <role>Super Admin</role>
+</person>
+
